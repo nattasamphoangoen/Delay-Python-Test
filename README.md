@@ -2,9 +2,9 @@
 
 ```bash
 #install python
-sudo apt install python3
+sudo apt-get install python3
 
 #install pip
-sudo apt install python3-pip
+sudo apt-get install python3-pip
 
 ```
